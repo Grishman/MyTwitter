@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">MyTwitter</string>
+    <string name="action_settings">Settings</string>
+    <string name="error_fetch_failed">Fetch failed</string>
+    <string name="error_post_failed">Tweet post failed</string>
+    <string name="label_no_tweets">No tweets, create one!</string>
+    <string name="label_what_is_happening">What is happening, Bro?</string>
+    <string name="action_tweet">Tweet</string>
+    <string name="error_no_internet">No internet connection. Your tweet won\'t be posted</string>
+</resources>
